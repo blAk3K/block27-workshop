@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: brown;
+}
+button:hover{
+  color: red;
+  transition: ease-in 1s;
+  background-color: black;
+}
+h2{
+  color: antiquewhite;
+}
+label{
+  color: antiquewhite;
+}
